@@ -1,0 +1,1 @@
+zone rpg : loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/test/main/Randomized%20Game%201'),true))()
